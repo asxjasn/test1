@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/asxjasn/test1/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/asxjasn/test1/main/test1.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/asxjasn/test1/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/asxjasn/test1/main/test1.yaml",
             "name": "Foo"
         }
     ]
